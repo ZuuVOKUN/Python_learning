@@ -1,0 +1,6 @@
+INFO:root:Start program
+INFO:root:Discr = 0.0
+INFO:root:Result if D = 0: One root = 3.0
+INFO:root:Type x = <class 'float'>
+INFO:root:isinstance = False
+INFO:root:End program
