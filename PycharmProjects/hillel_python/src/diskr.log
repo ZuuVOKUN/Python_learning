@@ -1,0 +1,7 @@
+INFO:root:Start program
+INFO:root:diskr = 224
+INFO:root:Path : ../configs/diskr.json
+INFO:root:Result if D > 0: 1st root = 2.8708286933869704, 2nd root = -0.8708286933869707
+INFO:root:Type x1, x2 = <class 'float'>, <class 'float'>
+INFO:root:isinstance int x1, x2 = False, False
+INFO:root:End program

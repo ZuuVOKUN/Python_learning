@@ -1,0 +1,12 @@
+INFO:root:My system description:
+INFO:root:Version           : 3.8.5
+INFO:root:Version tuple     : ('3', '8', '5')
+INFO:root:Compiler          : GCC 9.3.0
+INFO:root:Build             : ('default', 'Jul 28 2020 12:59:40')
+INFO:root:System            : Linux
+INFO:root:Node              : whiteboxlinux-VirtualBox
+INFO:root:Release           : 5.4.0-52-generic
+INFO:root:Version           : #57-Ubuntu SMP Thu Oct 15 10:57:00 UTC 2020
+INFO:root:Machine           : x86_64
+INFO:root:Processor         : x86_64
+INFO:root:Interpreter       : ('64bit', 'ELF')
